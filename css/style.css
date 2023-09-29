@@ -1,0 +1,32 @@
+.jj p{
+    float: left;border: 1px solid black;padding: 5px;border-radius: 60px; margin:25px;
+}
+.mm p{
+    float:left; margin:35px;padding: 3px;
+}
+.ll{
+    float: left;padding: 15px;
+}
+.pp{
+    float: left;border: 1px solid black;border-radius: 7px; margin:25px;padding:10px;
+}
+.kk{
+    float:left; margin:5px;border-radius: 20px;
+}
+.aa{
+width: 20px;height: 20px; border: 1px solid black;background-color: red;border-radius:50px;padding: 5px;
+}
+
+.bb{
+width: 40px;height: 40px;
+}
+.ss{
+    float: left;width: 500px;
+}
+.nn{
+    float: right;border: 1px solid black;padding: 5px;border-radius: 20px; margin:15px;
+}
+.ee{
+    float: left;
+    padding: 25px;
+}
