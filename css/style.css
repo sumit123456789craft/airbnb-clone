@@ -11,7 +11,7 @@
     float: left;border: 1px solid black;border-radius: 7px; margin:25px;padding:10px;
 }
 .kk{
-    float:left; margin:5px;border-radius: 20px;
+    float:left; margin:5px;border-radius: 20px;vertical-align: center;
 }
 .aa{
 width: 20px;height: 20px; border: 1px solid black;background-color: red;border-radius:50px;padding: 5px;
@@ -27,6 +27,22 @@ width: 40px;height: 40px;
     float: right;border: 1px solid black;padding: 5px;border-radius: 20px; margin:15px;
 }
 .ee{
-    float: left;
+    float:left;
     padding: 25px;
+    margin: 5px;
+    
 }
+.oo{
+    clear: both;
+}
+.side{
+    margin: auto;
+    width: 95%;
+}
+
+
+
+
+
+
+
